@@ -1,4 +1,4 @@
-package com.sjc.login_boot.mapper;
+package com.sjc.login_boot.mapper.first;
 
 import com.sjc.login_boot.entity.UserEntity;
 import org.apache.ibatis.annotations.Mapper;

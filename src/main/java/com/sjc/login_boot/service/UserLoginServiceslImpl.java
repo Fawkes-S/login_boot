@@ -3,7 +3,7 @@ package com.sjc.login_boot.service;
 import com.sjc.login_boot.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.sjc.login_boot.mapper.UserLoginMapper;
+import com.sjc.login_boot.mapper.first.UserLoginMapper;
 
 import java.util.List;
 

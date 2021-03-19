@@ -1,7 +1,7 @@
 package com.sjc.login_boot;
 
 import com.sjc.login_boot.entity.UserEntity;
-import com.sjc.login_boot.mapper.UserLoginMapper;
+import com.sjc.login_boot.mapper.first.UserLoginMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

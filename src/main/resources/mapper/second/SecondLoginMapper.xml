@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sjc.login_boot.mapper.second.SecondLoginMapper">
+    <select id="queryAll" resultType="com.sjc.login_boot.entity.SecondEntity">
+        select * from user
+    </select>
+
+
+</mapper>
